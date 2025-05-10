@@ -1,4 +1,4 @@
-# JokeAPI Client
+# Joker A JokeAPI Client
 
 A CLI app that fetches jokes in various categories such as Programming, Pun, Spooky, Dark, Christmas, and Miscellaneous.
 
